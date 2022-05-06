@@ -5,5 +5,6 @@ function App() {
        <p>oi meu chapa</p>
     );
 }
+// comment test
 
 ReactDOM.render(<App />, document.querySelector(".root"));
